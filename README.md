@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kriznaraj (Krishnaraj Venkatesan) | Sofware Developer at Chargebee | Ex - Dnata International
+- 👋 Hi, I’m @kriznaraj (Krishnaraj Venkatesan) | Sofware Engineer @ Chargebee | Ex - Dnata International
 - 👀 I’m interested in solving bussiness problems using technolgies - Java, Microservices
 - 🌱 I’m currently exploring various deployments possibilities of microservices - k8s, docker, auto-scale
 
