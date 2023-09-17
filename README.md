@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kriznaraj (Krishnaraj Venkatesan) | Principal Software Engineer @ Chargebee | Ex - Dnata International
-- 👀 I’m interested in solving bussiness problems using technologies - Java, Microservices
+- 👀 I’m interested in solving business problems using technologies - Java, Microservices
 
 
 <!---
